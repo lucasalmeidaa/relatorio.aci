@@ -2,17 +2,7 @@
 <html>
 <head>
 	<title>relatorio.nwm</title>
-	<style type="text/css" media="screen">
-		body{
-			background: #000;
-			color: #54ff00;
-			padding-left: 10%;
-			padding-right: 10%;
-		}
-		p.dd{
-			float: left;
-		}
-	</style>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 <p class="dd"><a href="http://127.0.0.1/ACI/" title=""><< voltar</a></p>
